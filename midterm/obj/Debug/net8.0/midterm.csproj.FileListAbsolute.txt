@@ -1,0 +1,14 @@
+D:\Algorithm\Midterm\midterm\midterm\bin\Debug\net8.0\midterm.exe
+D:\Algorithm\Midterm\midterm\midterm\bin\Debug\net8.0\midterm.deps.json
+D:\Algorithm\Midterm\midterm\midterm\bin\Debug\net8.0\midterm.runtimeconfig.json
+D:\Algorithm\Midterm\midterm\midterm\bin\Debug\net8.0\midterm.dll
+D:\Algorithm\Midterm\midterm\midterm\bin\Debug\net8.0\midterm.pdb
+D:\Algorithm\Midterm\midterm\midterm\obj\Debug\net8.0\midterm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithm\Midterm\midterm\midterm\obj\Debug\net8.0\midterm.AssemblyInfoInputs.cache
+D:\Algorithm\Midterm\midterm\midterm\obj\Debug\net8.0\midterm.AssemblyInfo.cs
+D:\Algorithm\Midterm\midterm\midterm\obj\Debug\net8.0\midterm.csproj.CoreCompileInputs.cache
+D:\Algorithm\Midterm\midterm\midterm\obj\Debug\net8.0\midterm.dll
+D:\Algorithm\Midterm\midterm\midterm\obj\Debug\net8.0\refint\midterm.dll
+D:\Algorithm\Midterm\midterm\midterm\obj\Debug\net8.0\midterm.pdb
+D:\Algorithm\Midterm\midterm\midterm\obj\Debug\net8.0\midterm.genruntimeconfig.cache
+D:\Algorithm\Midterm\midterm\midterm\obj\Debug\net8.0\ref\midterm.dll
